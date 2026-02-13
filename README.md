@@ -12,13 +12,13 @@ By the end of the lab, you should be able to load and validate time series data,
 
 ## Setup and Context
 
-You will use the CSV dataset for this lab. Download it here: [m1-08-viz-time-series-advanced-modeling-lab.csv](https://drive.google.com/file/d/1UupqgNMnxKSTCki9EecO6q3KZCkbw6tn/view?usp=drive_link). The file contains daily currency conversion rates with a `Date` column and multiple currency pairs. Work in a notebook named `m1-08-viz-time-series-advanced-modeling-lab.ipynb`.
+You will use the CSV dataset included in this repository: `data_safe_copy.csv`. The file contains daily currency conversion rates with a `Date` column and multiple currency pairs. Work in a notebook named `m1-08-viz-time-series-advanced-modeling-lab.ipynb`.
 
 ## Requirements
 
 - Fork this repository to your own GitHub account.
 - Clone your fork to your machine.
-- Download the CSV file linked above and place it where your notebook can read it.
+- Use the included CSV file `data_safe_copy.csv` from the lab repository.
 - Make sure you can open and run Jupyter notebooks (for example via Jupyter Lab or VS Code).
 
 ## Getting Started
